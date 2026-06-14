@@ -1,37 +1,46 @@
-from collections import Counter
+from collections import Counter, defaultdict
 
 class Solution(object):
     def findSubstring(self, s, words):
-        """
-        :type s: str
-        :type words: List[str]
-        :rtype: List[int]
-        """
         if not s or not words:
             return []
 
         word_len = len(words[0])
-        word_count = len(words)
-        total_len = word_len * word_count
+        num_words = len(words)
+        total_len = word_len * num_words
 
         target = Counter(words)
         ans = []
 
-        for i in range(len(s) - total_len + 1):
-            seen = {}
+        for offset in range(word_len):
+            left = offset
+            count = 0
+            window = defaultdict(int)
 
-            for j in range(word_count):
-                word = s[i + j * word_len : i + (j + 1) * word_len]
+            for right in range(offset, len(s) - word_len + 1, word_len):
+                word = s[right:right + word_len]
 
-                if word not in target:
-                    break
+                if word in target:
+                    window[word] += 1
+                    count += 1
 
-                seen[word] = seen.get(word, 0) + 1
+                    while window[word] > target[word]:
+                        left_word = s[left:left + word_len]
+                        window[left_word] -= 1
+                        count -= 1
+                        left += word_len
 
-                if seen[word] > target[word]:
-                    break
+                    if count == num_words:
+                        ans.append(left)
 
-            else:
-                ans.append(i)
+                        left_word = s[left:left + word_len]
+                        window[left_word] -= 1
+                        count -= 1
+                        left += word_len
+
+                else:
+                    window.clear()
+                    count = 0
+                    left = right + word_len
 
         return ans
