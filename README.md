@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Codexia-afk/Daily_DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
