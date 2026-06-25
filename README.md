@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
