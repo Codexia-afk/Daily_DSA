@@ -40,6 +40,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Codexia-afk/Daily_DSA/tree/master/0050-powx-n) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Codexia-afk/Daily_DSA/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
