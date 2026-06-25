@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -57,4 +59,16 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Codexia-afk/Daily_DSA/tree/master/0038-count-and-say) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
