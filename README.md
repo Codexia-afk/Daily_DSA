@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0040-combination-sum-ii) |
 ## Matrix
 |  |
 | ------- |
