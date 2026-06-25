@@ -13,12 +13,14 @@
 | [0046-permutations](https://github.com/Codexia-afk/Daily_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -72,6 +74,7 @@
 | [0038-count-and-say](https://github.com/Codexia-afk/Daily_DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +104,5 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
