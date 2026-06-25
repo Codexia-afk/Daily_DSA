@@ -47,4 +47,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Codexia-afk/Daily_DSA/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
