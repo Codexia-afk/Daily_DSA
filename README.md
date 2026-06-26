@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Codexia-afk/Daily_DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -40,6 +41,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
