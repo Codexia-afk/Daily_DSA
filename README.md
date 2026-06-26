@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Codexia-afk/Daily_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
