@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/Codexia-afk/Daily_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -122,4 +124,8 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
