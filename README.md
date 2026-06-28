@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Codexia-afk/Daily_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0059-spiral-matrix-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -121,6 +122,7 @@
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0047-permutations-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
 | ------- |
