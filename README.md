@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
 ## Stack
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
