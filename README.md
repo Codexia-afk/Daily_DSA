@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Codexia-afk/Daily_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0063-unique-paths-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -52,6 +53,7 @@
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0063-unique-paths-ii) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0063-unique-paths-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
