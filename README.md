@@ -108,6 +108,7 @@
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Codexia-afk/Daily_DSA/tree/master/0065-valid-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
