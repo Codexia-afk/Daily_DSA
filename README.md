@@ -59,6 +59,7 @@
 | [0048-rotate-image](https://github.com/Codexia-afk/Daily_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Codexia-afk/Daily_DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Codexia-afk/Daily_DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
