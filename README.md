@@ -30,6 +30,7 @@
 | [0037-sudoku-solver](https://github.com/Codexia-afk/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -98,6 +99,7 @@
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/0058-length-of-last-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
