@@ -66,6 +66,7 @@
 | [0050-powx-n](https://github.com/Codexia-afk/Daily_DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Codexia-afk/Daily_DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Codexia-afk/Daily_DSA/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -132,6 +134,7 @@
 | [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
