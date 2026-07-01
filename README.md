@@ -68,6 +68,7 @@
 | [0060-permutation-sequence](https://github.com/Codexia-afk/Daily_DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Codexia-afk/Daily_DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Codexia-afk/Daily_DSA/tree/master/0069-sqrtx) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Codexia-afk/Daily_DSA/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
