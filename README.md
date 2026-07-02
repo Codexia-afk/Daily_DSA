@@ -84,6 +84,7 @@
 | [0063-unique-paths-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Codexia-afk/Daily_DSA/tree/master/0072-edit-distance) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Codexia-afk/Daily_DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Codexia-afk/Daily_DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Codexia-afk/Daily_DSA/tree/master/0072-edit-distance) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
