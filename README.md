@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/Codexia-afk/Daily_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Codexia-afk/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -135,6 +136,7 @@
 | [0068-text-justification](https://github.com/Codexia-afk/Daily_DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Codexia-afk/Daily_DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Codexia-afk/Daily_DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -189,6 +191,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
