@@ -12,10 +12,10 @@ class Solution(object):
                 ans.append(path[:])
                 return
 
-            # Do not take nums[index]
+            
             backtrack(index + 1)
 
-            # Take nums[index]
+            
             path.append(nums[index])
             backtrack(index + 1)
             path.pop()
