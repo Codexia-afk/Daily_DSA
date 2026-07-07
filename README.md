@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Codexia-afk/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Codexia-afk/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@
 | [0051-n-queens](https://github.com/Codexia-afk/Daily_DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Codexia-afk/Daily_DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
