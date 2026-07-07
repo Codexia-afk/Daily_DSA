@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -153,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Stack
 |  |
 | ------- |
