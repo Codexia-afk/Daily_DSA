@@ -163,6 +163,7 @@
 | [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Combinatorics
 |  |
 | ------- |
