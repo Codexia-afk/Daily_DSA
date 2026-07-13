@@ -32,6 +32,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -50,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/Codexia-afk/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Codexia-afk/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
+| [1331-rank-transform-of-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -204,6 +206,7 @@
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
