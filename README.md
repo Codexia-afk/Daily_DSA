@@ -38,6 +38,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codexia-afk/Daily_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Codexia-afk/Daily_DSA/tree/master/3620-network-recovery-pathways) |
@@ -96,6 +97,7 @@
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Codexia-afk/Daily_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -112,6 +114,7 @@
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Codexia-afk/Daily_DSA/tree/master/0072-edit-distance) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Codexia-afk/Daily_DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -292,4 +295,8 @@
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
