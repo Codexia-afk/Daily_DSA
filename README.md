@@ -303,4 +303,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Codexia-afk/Daily_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
