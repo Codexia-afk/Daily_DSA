@@ -227,6 +227,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Combinatorics
 |  |
 | ------- |
