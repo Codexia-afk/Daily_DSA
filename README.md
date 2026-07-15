@@ -74,6 +74,7 @@
 | [0077-combinations](https://github.com/Codexia-afk/Daily_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Codexia-afk/Daily_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Codexia-afk/Daily_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Codexia-afk/Daily_DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
