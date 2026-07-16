@@ -331,4 +331,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Codexia-afk/Daily_DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Codexia-afk/Daily_DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
