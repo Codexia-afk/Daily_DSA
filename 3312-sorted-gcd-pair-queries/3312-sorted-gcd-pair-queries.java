@@ -14,24 +14,24 @@ class Solution {
             frequency[num]++;
         }
 
-        // exactGcd[g] = number of pairs whose GCD is exactly g
+        
         long[] exactGcd = new long[maximum + 1];
 
         for (int g = maximum; g >= 1; g--) {
             long divisibleCount = 0;
 
-            // Count numbers divisible by g
+            
             for (int multiple = g;
                  multiple <= maximum;
                  multiple += g) {
                 divisibleCount += frequency[multiple];
             }
 
-            // Number of pairs where both numbers are divisible by g
+            
             long pairCount =
                 divisibleCount * (divisibleCount - 1) / 2;
 
-            // Remove pairs whose exact GCD is a larger multiple of g
+            
             for (int multiple = g * 2;
                  multiple <= maximum;
                  multiple += g) {
@@ -41,7 +41,7 @@ class Solution {
             exactGcd[g] = pairCount;
         }
 
-        // prefixPairs[g] = number of pair GCD values <= g
+        
         long[] prefixPairs = new long[maximum + 1];
 
         for (int g = 1; g <= maximum; g++) {
