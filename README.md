@@ -177,6 +177,7 @@
 | [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/0087-scramble-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -199,12 +200,14 @@
 | [0071-simplify-path](https://github.com/Codexia-afk/Daily_DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codexia-afk/Daily_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codexia-afk/Daily_DSA/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Codexia-afk/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codexia-afk/Daily_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codexia-afk/Daily_DSA/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codexia-afk/Daily_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
