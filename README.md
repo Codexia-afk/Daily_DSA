@@ -133,6 +133,7 @@
 | [0072-edit-distance](https://github.com/Codexia-afk/Daily_DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Codexia-afk/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Codexia-afk/Daily_DSA/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -181,6 +182,7 @@
 | [0076-minimum-window-substring](https://github.com/Codexia-afk/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Codexia-afk/Daily_DSA/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codexia-afk/Daily_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
