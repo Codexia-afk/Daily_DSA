@@ -114,6 +114,7 @@
 | [0069-sqrtx](https://github.com/Codexia-afk/Daily_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Codexia-afk/Daily_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -138,6 +139,7 @@
 | [0087-scramble-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Codexia-afk/Daily_DSA/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codexia-afk/Daily_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -379,12 +381,15 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
