@@ -303,6 +303,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -356,6 +357,7 @@
 | [0079-word-search](https://github.com/Codexia-afk/Daily_DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
@@ -388,6 +390,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -402,4 +405,5 @@
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
