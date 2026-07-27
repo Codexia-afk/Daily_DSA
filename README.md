@@ -36,6 +36,7 @@
 | [0090-subsets-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1260-shift-2d-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -418,6 +420,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,6 +428,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,4 +443,5 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
