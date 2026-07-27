@@ -311,6 +311,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -401,6 +402,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -416,4 +418,5 @@
 | [0098-validate-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
