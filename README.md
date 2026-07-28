@@ -408,6 +408,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Codexia-afk/Daily_DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Codexia-afk/Daily_DSA/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Codexia-afk/Daily_DSA/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/Codexia-afk/Daily_DSA/tree/master/0550-game-play-analysis-iv) |
 ## Tree
 |  |
 | ------- |
