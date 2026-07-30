@@ -37,6 +37,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -124,6 +125,7 @@
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Codexia-afk/Daily_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -280,6 +282,7 @@
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
