@@ -401,6 +401,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
@@ -442,6 +443,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0110-balanced-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
