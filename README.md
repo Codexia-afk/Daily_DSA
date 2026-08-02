@@ -329,6 +329,7 @@
 | [0086-partition-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Combinatorics
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -420,6 +422,7 @@
 | [0112-path-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
@@ -466,6 +469,7 @@
 | [0112-path-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -494,6 +498,7 @@
 | [0112-path-sum](https://github.com/Codexia-afk/Daily_DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Counting Sort
 |  |
 | ------- |
