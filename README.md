@@ -37,6 +37,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Codexia-afk/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Codexia-afk/Daily_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0877-stone-game) |
@@ -164,6 +165,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Codexia-afk/Daily_DSA/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Codexia-afk/Daily_DSA/tree/master/1301-number-of-paths-with-max-score) |
