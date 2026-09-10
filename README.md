@@ -531,6 +531,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codexia-afk/Daily_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Codexia-afk/Daily_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Codexia-afk/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Codexia-afk/Daily_DSA/tree/master/3310-remove-methods-from-project) |
@@ -582,6 +583,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codexia-afk/Daily_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,6 +614,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codexia-afk/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Codexia-afk/Daily_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codexia-afk/Daily_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
 |  |
 | ------- |
