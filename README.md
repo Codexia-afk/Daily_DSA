@@ -289,6 +289,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Codexia-afk/Daily_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Codexia-afk/Daily_DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Codexia-afk/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Codexia-afk/Daily_DSA/tree/master/0044-wildcard-matching) |
