@@ -40,6 +40,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Codexia-afk/Daily_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Codexia-afk/Daily_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Codexia-afk/Daily_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@
 | [0070-climbing-stairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Codexia-afk/Daily_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Codexia-afk/Daily_DSA/tree/master/0836-rectangle-overlap) |
