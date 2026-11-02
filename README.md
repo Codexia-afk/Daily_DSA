@@ -41,6 +41,7 @@
 | [0120-triangle](https://github.com/Codexia-afk/Daily_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Codexia-afk/Daily_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Codexia-afk/Daily_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@
 | [0089-gray-code](https://github.com/Codexia-afk/Daily_DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Codexia-afk/Daily_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Codexia-afk/Daily_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Codexia-afk/Daily_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Codexia-afk/Daily_DSA/tree/master/0836-rectangle-overlap) |
@@ -405,6 +407,7 @@
 | [0056-merge-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Codexia-afk/Daily_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codexia-afk/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Codexia-afk/Daily_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Codexia-afk/Daily_DSA/tree/master/1331-rank-transform-of-an-array) |
