@@ -319,6 +319,7 @@
 | [1927-sum-game](https://github.com/Codexia-afk/Daily_DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Codexia-afk/Daily_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Codexia-afk/Daily_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codexia-afk/Daily_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Codexia-afk/Daily_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -372,6 +373,7 @@
 | [0067-add-binary](https://github.com/Codexia-afk/Daily_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Codexia-afk/Daily_DSA/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Codexia-afk/Daily_DSA/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Codexia-afk/Daily_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Codexia-afk/Daily_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codexia-afk/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
